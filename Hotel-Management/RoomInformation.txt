@@ -1,0 +1,6 @@
+Room Number, Room Availability, Room Type, Guest First Name
+101,Unavailable/Occupied,King,Antonio
+102,Unavailable/Occupied,King,Hunter
+103,Unavailable/Occupied,King,Abass
+104,Unavailable/Occupied,Double Queen,Ruiwen
+105,Unavailable/Dirty,Double Queen,

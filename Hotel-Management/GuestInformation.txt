@@ -1,0 +1,6 @@
+Room#,Guest First Name, Guest Last Name, Room Type, Reservation Made Date, Check In Date, Check Out Date, Phone#, Address, Email, ID, License Plate, Room Rate, Total Charge, Payments Made, Balance
+101,,,King,,,,,,,,,100,,, 
+102,Hunter,Blanchy,King,4-1-2021,4-21-2021,4-23-2021,323-849-1100,3333 Doug Drive,hunter@gmail.com,777444,1qer789,100,200,100,100
+103,Abass,Zada,King,4-15-2021,4-21-2021,4-25-2021,913-335-5656,7744 Dimmadome Lane,abass@gmail.com,999666,3asd123,100,400,200,200
+104,Ruiwen,Zhang,Double Queen,3-12-2021,4-21-2021,4-22-2021,188-894-4823,9696 Yale Street,ruiwen@gmail.com,111444,4dfg678,200,400,300,100
+105,Amy,Potter,Double Queen with Kitchen,4-11-2021,4-21-2021,4-22-2021,718-111-8198,7676 Gale Pole,amy@gmail.com,333555,2eee234,300,300,40,260

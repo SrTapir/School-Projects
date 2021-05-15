@@ -1,0 +1,5 @@
+Antonio,de Lis,101,King,4-20-2021,5-1-2021,123-345-9900,2121 Hope Lane,antonio@gmail.com,888555,2eee234,1000,600,400,
+Hunter,Blanchy,102,King,4-20-2021,4-23-2021,323-849-1100,3333 Doug Drive,hunter@gmail.com,777444,1qer789,5000,600,4400,
+Abass,Zada,103,King,4-20-2021,4-25-2021,913-335-5656,7744 Dimmadome Lane,abass@gmail.com,999666,3asd123,800,600,200,
+Ruiwen,Zhang,104,Double Queen,4-20-2021,4-27-2021,188-894-4823,9696 Yale Street,ruiwen@gmail.com,111444,4dfg678,9000,600,300,
+Amy,Potter,105,Double Queen with Kitchen,4-20-2021,4-21-2021,718-111-8198,7676 Gale Pole,amy@gmail.com,333555,2eee234,100,60,40,
